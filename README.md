@@ -1,4 +1,4 @@
-# anoma_data
+# anomadata
 
   1. Import Libraries:
 Start by importing necessary Python libraries for data manipulation, visualization, and model building.
